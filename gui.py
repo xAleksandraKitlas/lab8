@@ -1,4 +1,5 @@
-# jako pierwszy modul zrobilam prosta wersje painta
+#innowacyjnosc:
+#jako pierwszy modul zrobilam prosta wersje painta
 # mozna wybrac kolor i grubosc pena, a takze kolor tla
 # jako drugi projekt wybralam gre na podstawie retro gry tron
 # gracz pierwszy(czerwony) -> sterowanie WASD
